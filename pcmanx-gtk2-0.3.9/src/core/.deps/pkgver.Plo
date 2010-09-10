@@ -1,0 +1,8 @@
+pkgver.lo: pkgver.c ../../config.h pcmanx_utils.h \
+ /usr/include/bits/wordsize.h
+
+../../config.h:
+
+pcmanx_utils.h:
+
+/usr/include/bits/wordsize.h:
